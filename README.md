@@ -1,6 +1,6 @@
 
 <p>
-   <img src="https://github.com/Harsh-Srivastav123/Harsh-Srivastav123/blob/main/githubBannernew.png"/>
+   <img src="https://github.com/Harsh-Srivastav123/Harsh-Srivastav123/blob/main/githubBannernew.jpg"/>
  </p>
 
 
