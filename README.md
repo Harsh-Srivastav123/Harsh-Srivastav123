@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Note App](https://github.com/Harsh-Srivastav123/Note_App)<br>🤝 I’m looking for help with [Profile Management App](https://github.com/Harsh-Srivastav123/Profile_Management_App)<br>🌱 I’m currently learning **Jetpack Compose**<br>💬 Ask me about **Android Development | Kotlin | Java | Python**<br>
+🔭 I’m currently working on [Note App](https://github.com/Harsh-Srivastav123/Note_App)<br>🤝 I’m looking for help with [Profile Management App](https://github.com/Harsh-Srivastav123/Profile_Management_App)<br>🌱 I’m currently learning **Spring Boot**<br>💬 Ask me about **Android Development | Kotlin | Java | Python**<br>
 
 
 ## 🌐 Socials:
